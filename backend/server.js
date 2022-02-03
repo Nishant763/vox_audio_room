@@ -33,7 +33,7 @@ app.get('/', (req, res) => {
     res.send('Hello from express Js');
 });
 
-// Sockets
+//Sockets
 
 const socketUserMapping = {};
 
